@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmvParser</string>
+    <string name="nfc_ask_turn_on">NFC is disabled</string>
+    <string name="nfc_ask_message">Would you like to enable NFC?</string>
+    <string name="nfc_ask_yes">Yes</string>
+    <string name="nfc_ask_no">No</string>
+
+</resources>
