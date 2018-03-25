@@ -22,7 +22,7 @@ Import the nfcard module into your Android Studio project, and add module depend
 How to use
 ==============
 
-1) Add android.permisson.NFC to permissions list required by your application in AndroidManifest.xml
+1) Add android.permission.NFC to permissions list required by your application in AndroidManifest.xml
 
 2) Create an Activity class that exetends AbstractEmvClientActivity, and implement following methods:
 
